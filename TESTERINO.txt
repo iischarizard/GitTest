@@ -1,3 +1,7 @@
 DIDLEDOODONGERCUCKERINO
+<<<<<<< Updated upstream
 
 hello there
+=======
+wOt
+>>>>>>> Stashed changes
